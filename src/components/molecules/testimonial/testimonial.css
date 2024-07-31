@@ -1,0 +1,11 @@
+.testimonial {
+  padding: 20px;
+  border-left: 4px solid #007bff;
+  margin-bottom: 20px;
+}
+
+.author {
+  margin-top: 10px;
+  font-weight: bold;
+  text-align: right;
+}

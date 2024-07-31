@@ -1,0 +1,17 @@
+.navigation {
+  background-color: #f8f9fa;
+  padding: 10px 20px;
+}
+
+.navigation ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+}
